@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* @layer base{
+  html {
+    background-image: url("https://res.cloudinary.com/dmhsf5hqd/image/upload/v1687496883/597288_plain-white-backgrounds-hd_1000x800_h_bcw0st.jpg");
+  }
+ 
+} */
